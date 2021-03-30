@@ -1,3 +1,4 @@
 whitelist = {
-	radar = 3227504872
+	radar = 3227504872,
+	pluto = 3208561056
 }
